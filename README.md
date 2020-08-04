@@ -1,4 +1,4 @@
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ZK-Han)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ZK-Han&show_icons=true&theme=radical&repo=github-readme-stats)
 ### Hi there 👋
 
 <!--
