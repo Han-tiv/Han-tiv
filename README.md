@@ -1,6 +1,6 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app//api?username=ZhikunHan&show_icons=true&theme=radical&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
-### Hi there, I'm ZhikunHan!
+### Hi there, I'm Zhikun!
 
 <a href="https://twitter.com/Han_tiv/" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-%231877F2.svg?&style=flat-square&logo=twitter&logoColor=white&color=071A2C" alt="Han_tiv | Twitter" align="left">
